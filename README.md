@@ -3,7 +3,7 @@
 
 ### 👨‍💻&nbsp; About Me :
 - 🎓 Studied Software Development at [Terciario Urquiza](https://terciariourquiza.edu.ar/)
-- 🏡'Lives in **Rosario, Argentina**
+- 🏡 Lives in **Rosario, Argentina**
 - 🔍 Looking for my first opportunity in the IT industry
 - 🤝 I enjoy working in teams and collaborating on projects
 - 🧠 Always curious and ready to learn something new
